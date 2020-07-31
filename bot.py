@@ -44,7 +44,7 @@ def takeCommand():
 
 def execute(): 
 
-    speak("Welcome, I am Bot for Appointment booking, which of the following help you want?")
+    speak("Welcome, I am Bot, for Appointment booking, which of the following help you want?")
     print("\nAppointment / Message ?") 
     speak("Do you want to book an appointment, or, do you want to record message?")
    
